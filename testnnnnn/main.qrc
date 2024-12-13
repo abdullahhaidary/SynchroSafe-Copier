@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons8-camera-50.png</file>
+    <file>python.svg</file>
+    <file>camera-solid.svg</file>
+  </qresource>
+</RCC>
